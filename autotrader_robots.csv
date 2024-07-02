@@ -1,0 +1,79 @@
+directive,content,robotstxt_last_modified,robotstxt_url,download_date
+comment,This is the robots.txt for autotrader.co.uk,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+comment,_                                ___________                     _,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+comment,//////////  / \                              |____   ____|                   | |,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+comment,///////////  / _ \       _    _    _        ____    | |   _       ____      ___| |   ____    _,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+comment,////////////  / /_\ \     | |  | |  / \__    /    \   | |  | \__   /    \    /     |  /  _ \  | \___,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+comment,/ _____ \    | |  | | |   _/   |  /\  |  | |  |  __/ |  /\  |  |  /\  | |  [_] \ |  __/,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+comment,////////////  / /     \ \   | |  | |  | |     | |  | |  | |  | |    | |  | |  | |  | | |  ____| | |,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+comment,///////////   / /       \ \  |  \/  |  | |__/\ |  \/  |  | |  | |    |  \/ _ \ |  \/  | |  \____ | |,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+comment,//////////    /_/         \_\  \____/   \_____/  \____/   |_|  |_|     \___/ \/  \___/\/  \_____/ |_|,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+comment,,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+comment,========================================================================================================,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+comment,|         Auto Trader are hiring - Check out our jobs at https://careers.autotrader.co.uk/jobs         |,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+comment,========================================================================================================,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+User-agent,Mediapartners-Google,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+User-agent,Baiduspider,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+User-agent,CrystalSemanticsBot,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+User-agent,WeSEE:Ads/PageBot (http://www.wesee.com/bot/),2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+User-agent,WeSEE:Ads/PictureBot (http://www.wesee.com/bot/),2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+User-agent,*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/search-form,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/car-search,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/featuredlistingad/advert,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/new-cars/search,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/new-cars/*lead*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/redirect,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/cgi-bin,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/quicksearch/form,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/contextualUsedCars,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/reserve,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*write-a-review*/dealer-id*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/report-bad-advert,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/partners,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*advertorial*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/ect-preview,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/home-editorial,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/home-sell,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/new-cars/derivative,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/new-cars/generation,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/secure*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/secure/minimal/register,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/content/sponsored-content*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/dealer/contact/*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*write-an-open-review*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/van-search,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/bike-search,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/caravan-search,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*?olaId=,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*supplied-price-from,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*advertising-location,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*?region=,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*?sort=,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*?body-type=,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*?year-from=,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*?postcode=,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*?county=,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*?radius=,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,*/owner-reviews/third-party-reviews*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/configure*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/classified*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/secure/signin*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/secure/register*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/cars/leasing/search*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/cars/leasing/confirmation*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/cars/leasing/product*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/json/content-search/autocomplete,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/component/savesearch*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/car-details*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/bike-details*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/van-details*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/caravan-details*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/motorhome-details*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Disallow,/content/gamma/*,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
+Sitemap,https://www.autotrader.co.uk/sitemap-index.xml,2021-11-23 18:15:28+00:00,https://www.autotrader.co.uk/robots.txt,2021-11-23 18:15:28.005721+00:00
